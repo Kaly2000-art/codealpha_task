@@ -1,16 +1,16 @@
-# CodeAlpha Task - AI Chatbot
+# CodeAlpha Task - Student Grade Tracker
 
 ## Description
 
-This project is a simple AI Chatbot developed in Java as part of the CodeAlpha Internship. The chatbot interacts with users through the console by responding to basic queries and commands.
+This project is a Java-based Student Grade Tracker developed as part of the CodeAlpha Internship. It allows users to enter student marks, calculate the total and average marks, and display the corresponding grade.
 
 ## Features
 
-* Interactive console-based chatbot
-* Greets the user
-* Responds to predefined questions
-* Displays current date and time
-* Exits when the user types `exit`
+* Add student marks
+* Calculate total marks
+* Calculate average marks
+* Display student grade
+* Console-based user interface
 
 ## Technologies Used
 
@@ -22,20 +22,21 @@ This project is a simple AI Chatbot developed in Java as part of the CodeAlpha I
 1. Compile the program:
 
    ```
-   javac AIChatbot.java
+   javac StudentGradeTracker.java
    ```
 2. Run the program:
 
    ```
-   java AIChatbot
+   java StudentGradeTracker
    ```
 
 ## Sample Output
 
-* Chatbot starts and greets the user.
-* User enters a message.
-* Chatbot responds appropriately.
-* Program exits when the user types `exit`.
+* Enter student details
+* Enter marks
+* Display total marks
+* Display average marks
+* Display final grade
 
 ## Author
 
